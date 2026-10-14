@@ -38,7 +38,6 @@ frontend/
   src/
     components/           Form, map, results, departure picker, loader
     api.ts / types.ts     API client + shared types
-LOOM_WALKTHROUGH.md
 .env.example
 ```
 
@@ -163,6 +162,6 @@ Routes are sorted by:
 
 ## Loom
 
-See [LOOM_WALKTHROUGH.md](LOOM_WALKTHROUGH.md) for a 5–10 min recording script. Paste the Loom URL here when ready:
+Paste the Loom walkthrough URL here when ready:
 
 - **Loom:** _(your link)_

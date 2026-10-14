@@ -15,7 +15,4 @@ backend/staticfiles/
 .idea/
 .vscode/
 *.log
-.elim/
-${workspaceFolder}/
-fs-assessment-spotter.pdf
-LOOM_WALKTHROUGH.md
+_local/
